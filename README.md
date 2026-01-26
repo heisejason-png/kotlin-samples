@@ -6,3 +6,4 @@ This is the externally shared NSDK Native Kotlin samples.
 
 - **ArdkSamples/** - The main sample application module
 - **ArdkSamples/libs/generated/** - Contains the pre-built NSDK AAR library
+- Created by Jason Scott Heise
